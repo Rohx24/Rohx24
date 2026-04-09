@@ -28,8 +28,8 @@ val rohit = Developer(
     name        = "Rohit",
     university  = "RV University, Bangalore  |  BTech '23",
     building    = listOf(
-        "Android navigation apps (DriveDash — Nokia T20 car tablet)",
-        "AI-powered tools (video editors, exam generators)",
+        "AI-powered tools",
+        "Android apps (DriveDash)",
         "Full-stack web apps & ERPs",
         "AR experiences with hand-tracking"
     ),
@@ -47,7 +47,7 @@ val rohit = Developer(
 <td width="50%">
 
 **🗺️ [DriveDash](https://github.com/Rohx24/Drivedash)**
-> Custom Android navigation app for a Nokia T20 car tablet. Real-time GPS relay from iPhone, Kalman-filtered positioning, Spotify integration, HUD windshield mode, live rerouting.
+> Custom Android navigation app. Real-time GPS relay from iPhone, Kalman-filtered positioning, Spotify integration, HUD windshield mode, live rerouting.
 
 `Kotlin` `Jetpack Compose` `Google Maps SDK` `Android`
 
