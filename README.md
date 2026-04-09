@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Rohit%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&%20%7C%20Full-Stack%20%7C%20AI%2FML%20Builder&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Rohit%20👋&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Android%20%7C%20Full-Stack%20%7C%20AI%2FML%20Builder&descAlignY=55&descSize=20" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Android+apps+with+Kotlin+%26+Jetpack+Compose;Full-stack+web+%7C+TypeScript+%7C+JavaScript;AI+video+editors+%7C+AR+whiteboards+%7C+GenAI;Built+an+ERP+for+my+entire+university;Hackathon+grinder+%E2%80%94+EY+%7C+Meta+%7C+Guvi)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Android+apps+with+Kotlin+%26+Jetpack+Compose;Full-stack+web+%7C+TypeScript+%7C+JavaScript;AI+video+editors+%7C+AR+whiteboards+%7C+GenAI;Hackathon+grinder+%E2%80%94+EY+%7C+Meta+%7C+Guvi)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,7 +33,6 @@ val rohit = Developer(
         "Full-stack web apps & ERPs",
         "AR experiences with hand-tracking"
     ),
-    hackathons  = listOf("EY Hackathon", "Meta Hackathon", "Guvi Hackathon"),
     superpower  = "Taking an idea from 0 → shipped product"
 )
 ```
@@ -83,7 +82,7 @@ val rohit = Developer(
 <td width="50%">
 
 **🎓 [RVU ERP System](https://github.com/Rohx24/ERP)**
-> Built a full ERP system for RV University — used by actual students and faculty.
+> Built a full ERP system.
 
 `JavaScript` `Full-Stack` `Web`
 
