@@ -27,12 +27,12 @@
 val rohit = Developer(
     name        = "Rohit",
     university  = "RV University, Bangalore  |  BTech '23",
-    building    = listOf(
-        "AI-powered tools",
-        "Android apps (DriveDash)",
-        "Full-stack web apps & ERPs",
-        "AR experiences with hand-tracking"
-    ),
+    hobbies = listOf(
+    "Driving",
+    "Music",
+    "YouTube",
+    "Chillin"
+)
     superpower  = "Taking an idea from 0 → shipped product"
 )
 ```
