@@ -45,16 +45,16 @@ val rohit = Developer(
 <tr>
 <td width="50%">
 
-**🗺️ [DriveDash](https://github.com/Rohx24/Drivedash)**
-> Custom Android navigation app. Real-time GPS relay from iPhone, Kalman-filtered positioning, Spotify integration, HUD windshield mode, live rerouting.
+**🔺 [PRISM](https://github.com/Rohx24/prism-risk)**
+> Parallel-AI insurance underwriting console. Four independent risk agents (Relevance AI workforce) analyze a case simultaneously, then reconcile into a scored, priced, auditable decision.
 
-`Kotlin` `Jetpack Compose` `Google Maps SDK` `Android`
+`Next.js` `TypeScript` `Relevance AI` `React Three Fiber`
 
 </td>
 <td width="50%">
 
-**🎬 [The Verdict — AI Video Editor](https://github.com/Rohx24/verdict)**
-> AI-powered video editing app. Built at a hackathon.
+**🏛️ [AI Boardroom](https://github.com/Rohx24/aiboardroom)**
+> AI idea evaluator — scrutinizes your idea by a board of AI personas.
 
 `TypeScript` `AI/ML`
 
@@ -63,36 +63,36 @@ val rohit = Developer(
 <tr>
 <td width="50%">
 
-**🏥 [Healthcare App](https://github.com/Rohx24/Healthcare-App)**
-> Built for the EY Hackathon — a Practo/1mg-style platform for healthcare access.
+**🗺️ [DriveDash](https://github.com/Rohx24/Drivedash)**
+> Custom Android navigation app. Real-time GPS relay from iPhone, Kalman-filtered positioning, Spotify integration, HUD windshield mode, live rerouting.
 
-`JavaScript` `Full-Stack`
+`Kotlin` `Jetpack Compose` `Google Maps SDK` `Android`
 
 </td>
 <td width="50%">
 
-**✋ [AR Hand Detector Whiteboard](https://github.com/Rohx24/AR-Hand-detector-whiteboard)**
-> Real-time AR whiteboard using hand gesture detection. Draw in the air.
+**🍯 [SatarkAI](https://github.com/Rohx24/satarkai)**
+> Adaptive honeypot agent that detects scam patterns, keeps the scammer engaged, and extracts actionable intelligence.
 
-`TypeScript` `AR` `Computer Vision`
+`Node.js` `Express` `OpenAI` `GPT-4.1-mini`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-**🎓 [RVU ERP System](https://github.com/Rohx24/ERP)**
-> Built a full ERP system.
+**🎬 [The Verdict — AI Video Editor](https://github.com/Rohx24/verdict)**
+> AI-powered video editing app. Built at a hackathon.
 
-`JavaScript` `Full-Stack` `Web`
+`TypeScript` `AI/ML`
 
 </td>
 <td width="50%">
 
-**📝 [Exam Paper Generator](https://github.com/Rohx24/Exam-paper-gen)**
-> AI-powered exam paper generation tool.
+**🏥 [Healthcare App](https://github.com/Rohx24/Healthcare-App)**
+> Built for the EY Hackathon — a Practo/1mg-style platform for healthcare access.
 
-`TypeScript` `GenAI`
+`JavaScript` `Full-Stack`
 
 </td>
 </tr>
@@ -102,36 +102,55 @@ val rohit = Developer(
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="25%">
 
-**Android & Mobile**
+**Mobile**
 
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google%20Maps%20SDK-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Google Maps SDK](https://img.shields.io/badge/Google%20Maps%20SDK-4285F4?style=flat-square&logo=googlemaps&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
 
 **Web & Full-Stack**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td valign="top" width="25%">
 
 **AI / ML**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![OpenAI](https://img.shields.io/badge/GenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Relevance AI](https://img.shields.io/badge/Relevance%20AI-6C63FF?style=flat-square&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-**Tools**
+</td>
+<td valign="top" width="25%">
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+**Tools & Infra**
 
-</div>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -146,9 +165,11 @@ val rohit = Developer(
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Rohx24&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF)](https://git.io/streak-stats)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rohx24&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)
 
 </div>
+
+> The contribution-streak widget above (`streak-stats.demolab.com`) is a known-flaky third-party service — it periodically fails to fetch the contribution calendar with a "Failed to retrieve contributions" error, unrelated to this repo. Swapped it for the [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) widget, which is more reliable.
 
 ---
 
@@ -164,9 +185,9 @@ val rohit = Developer(
 
 ### 🌱 Currently
 
-- 🚗 Finishing **DriveDash v2.0** — rerouting fixes, HUD mode, Spotify watchdog
-- 🤖 Exploring **AI agents** and autonomous workflows
-- 📦 Learning **system design** and scalable backend architecture
+- 🔺 Building **multi-agent risk & underwriting systems** — PRISM, Policy Renewal Advisor
+- 🤖 Shipping **parallel-agent architectures** with LangGraph and Relevance AI
+- 🧠 Grinding **NeetCode** and sharpening DSA fundamentals
 
 ---
 
