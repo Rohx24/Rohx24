@@ -53,7 +53,7 @@ val rohit = Developer(
 </td>
 <td width="50%">
 
-**🏛️ [AI Boardroom](https://github.com/Rohx24/aiboardroom)**
+**🏛️ [AI Boardroom](https://github.com/Rohx24/Boardroom)**
 > AI idea evaluator — scrutinizes your idea by a board of AI personas.
 
 `TypeScript` `AI/ML`
