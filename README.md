@@ -81,10 +81,10 @@ val rohit = Developer(
 <tr>
 <td width="50%">
 
-**🎬 [The Verdict — AI Video Editor](https://github.com/Rohx24/verdict)**
-> AI-powered video editing app. Built at a hackathon.
+**🪔 [Parampara](https://github.com/Rohx24/parampara)**
+> Full-stack app built on Supabase, with RLS-backed data policies for a real-world demo MVP.
 
-`TypeScript` `AI/ML`
+`JavaScript` `Supabase` `Full-Stack`
 
 </td>
 <td width="50%">
@@ -168,8 +168,6 @@ val rohit = Developer(
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rohx24&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)
 
 </div>
-
-> The contribution-streak widget above (`streak-stats.demolab.com`) is a known-flaky third-party service — it periodically fails to fetch the contribution calendar with a "Failed to retrieve contributions" error, unrelated to this repo. Swapped it for the [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) widget, which is more reliable.
 
 ---
 
