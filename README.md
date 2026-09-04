@@ -179,16 +179,6 @@ val rohit = Developer(
 | 🔵 Meta Hackathon | meta-hack | Python |
 | 🟠 Guvi Hackathon | guvi-hack | TypeScript |
 
----
-
-### 🌱 Currently
-
-- 🔺 Building **multi-agent risk & underwriting systems** — PRISM, Policy Renewal Advisor
-- 🤖 Shipping **parallel-agent architectures** with LangGraph and Relevance AI
-- 🧠 Grinding **NeetCode** and sharpening DSA fundamentals
-
----
-
 ### 📬 Connect
 
 <div align="center">
