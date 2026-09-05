@@ -166,7 +166,7 @@ val rohit = Developer(
 <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Rohx24&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)
-![Downloads](https://img.shields.io/github/downloads/Rohx24/claude-counter/total)
+
 </div>
 
 ---
